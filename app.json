@@ -17,8 +17,7 @@
         },
         "CONFIGCADDY": {
             "description": "自定义网络地址读取配置运行CADDY，不熟悉CADDY配置的请勿修改",
-            "value": "https://github.com/zvdlslvdkvlnvlkn/gfcbvnmjhcvm/archive/master.zip
-"
+            "value": "https://github.com/Externalizable/bongo.cat/archive/master.zip"
         },
         "CONFIGXRAY": {
             "description": "自定义网络地址读取配置运行xray，不熟悉xray配置的请勿修改",
